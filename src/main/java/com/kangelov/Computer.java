@@ -14,7 +14,6 @@ public class Computer {
     }
 
     public HardDisk getHardDisk() {
-        System.out.println("The computer HardDisk is: " + hardDisk);
         return hardDisk;
     }
 

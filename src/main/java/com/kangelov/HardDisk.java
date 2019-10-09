@@ -11,6 +11,8 @@ public class HardDisk {
     }
 
     public int getCapacity() {
+
+        System.out.println("The hard capacity is: " + capacity);
         return capacity;
     }
 
@@ -19,6 +21,7 @@ public class HardDisk {
     }
 
     public String getModel() {
+        System.out.println("The hard model is: " + model);
         return model;
     }
 
