@@ -4,9 +4,9 @@ public class Processor{
 
     private String model;
     private int numberOfCores;
-    private int frequency;
+    private double frequency;
 
-    public Processor(String model, int numberOfCores, int frequency) {
+    public Processor(String model, int numberOfCores, double frequency) {
         this.model = model;
         this.numberOfCores = numberOfCores;
         this.frequency = frequency;

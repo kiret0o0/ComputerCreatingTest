@@ -2,13 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f250ecf5-c969-4438-b78d-012b70b47a72" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/kangelov/Computer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/kangelov/Computer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/kangelov/HardDisk.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/kangelov/HardDisk.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kangelov/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/kangelov/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/kangelov/Processor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/kangelov/Processor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/kangelov/Ram.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/kangelov/Ram.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/kangelov/VideoCard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/kangelov/VideoCard.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -59,6 +56,26 @@
       </list>
     </option>
   </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.kangelov.Main" />
+      <module name="ComputerCreationTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kangelov.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -69,7 +86,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1570613191793</updated>
-      <workItem from="1570613193748" duration="2922000" />
+      <workItem from="1570613193748" duration="4766000" />
     </task>
     <servers />
   </component>

@@ -1,50 +1,35 @@
 package com.kangelov;
 
 public class Computer {
-    private String HardDisk;
-    private String VideoCard;
-    private String Ram;
-    private String Processor;
+    private HardDisk hardDisk;
+    private VideoCard videoCard;
+    private Ram ram;
+    private Processor processor;
 
-    public Computer() {
+    public Computer(HardDisk hardDisk, VideoCard videoCard, Ram ram, Processor processor) {
+        this.hardDisk = hardDisk;
+        this.videoCard = videoCard;
+        this.ram = ram;
+        this.processor = processor;
     }
 
-    public Computer(String hardDisk, String videoCard, String ram, String processor) {
-        HardDisk = hardDisk;
-        VideoCard = videoCard;
-        Ram = ram;
-        Processor = processor;
+    public HardDisk getHardDisk() {
+        System.out.println("The computer HardDisk is: " + hardDisk);
+        return hardDisk;
     }
 
-    public String getHardDisk() {
-        return HardDisk;
+    public VideoCard getVideoCard() {
+        System.out.println("The computer VideoCard is: " + videoCard);
+        return videoCard;
     }
 
-    public void setHardDisk(String hardDisk) {
-        HardDisk = hardDisk;
+    public Ram getRam() {
+        System.out.println("The computer Ram is: " + ram);
+        return ram;
     }
 
-    public String getVideoCard() {
-        return VideoCard;
-    }
-
-    public void setVideoCard(String videoCard) {
-        VideoCard = videoCard;
-    }
-
-    public String getRam() {
-        return Ram;
-    }
-
-    public void setRam(String ram) {
-        Ram = ram;
-    }
-
-    public String getProcessor() {
-        return Processor;
-    }
-
-    public void setProcessor(String processor) {
-        Processor = processor;
+    public Processor getProcessor() {
+        System.out.println("The computer Processor is: " + processor);
+        return processor;
     }
 }
