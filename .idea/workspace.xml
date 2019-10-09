@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f250ecf5-c969-4438-b78d-012b70b47a72" name="Default Changelist" comment="" />
+    <list default="true" id="f250ecf5-c969-4438-b78d-012b70b47a72" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kangelov/Computer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/kangelov/Computer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kangelov/HardDisk.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/kangelov/HardDisk.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kangelov/Processor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/kangelov/Processor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kangelov/Ram.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/kangelov/Ram.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kangelov/VideoCard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/kangelov/VideoCard.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,6 +26,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -26,7 +37,9 @@
     </option>
   </component>
   <component name="ProjectId" id="1RxeUeUQAPQPInvESnqzby9mmcg" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="project.structure.last.edited" value="Project" />
@@ -56,11 +69,22 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1570613191793</updated>
-      <workItem from="1570613193748" duration="2227000" />
+      <workItem from="1570613193748" duration="2922000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
