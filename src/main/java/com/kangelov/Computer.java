@@ -18,17 +18,14 @@ public class Computer {
     }
 
     public VideoCard getVideoCard() {
-        System.out.println("The computer VideoCard is: " + videoCard);
         return videoCard;
     }
 
     public Ram getRam() {
-        System.out.println("The computer Ram is: " + ram);
         return ram;
     }
 
     public Processor getProcessor() {
-        System.out.println("The computer Processor is: " + processor);
         return processor;
     }
 }

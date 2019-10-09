@@ -2,21 +2,20 @@ package com.kangelov;
 
 public class HardDisk {
 
-    private int capacity;
+    private String capacity;
     private String model;
 
-    public HardDisk(int capacity, String model) {
+    public HardDisk(String capacity, String model) {
         this.capacity = capacity;
         this.model = model;
     }
 
-    public int getCapacity() {
-
+    public String getCapacity() {
         System.out.println("The hard capacity is: " + capacity);
         return capacity;
     }
 
-    public void setCapacity(int capacity) {
+    public void setCapacity(String capacity) {
         this.capacity = capacity;
     }
 

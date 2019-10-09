@@ -13,7 +13,18 @@ public class Processor{
     }
 
     public String getModel() {
+        System.out.println("The processor model is: " + model);
         return model;
+    }
+
+    public int getNumberOfCores() {
+        System.out.println("The processor cores are: " + numberOfCores);
+        return numberOfCores;
+    }
+
+    public double getFrequency() {
+        System.out.println("The processor frequency is: " + frequency);
+        return frequency;
     }
 
     public void setModel(String model) {

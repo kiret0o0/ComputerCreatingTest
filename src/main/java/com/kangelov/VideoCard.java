@@ -15,10 +15,14 @@ public class VideoCard{
     }
 
     public void setRam(int ram) {
+
+        System.out.println("The video card ram is: " + ram);
         this.ram = ram;
     }
 
     public String getModel() {
+
+        System.out.println("The video card model is: " + model);
         return model;
     }
 

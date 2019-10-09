@@ -11,6 +11,8 @@ public class Ram{
     }
 
     public int getCapacity() {
+
+        System.out.println("The ram capacity is: " + capacity);
         return capacity;
     }
 
@@ -19,6 +21,8 @@ public class Ram{
     }
 
     public int getFrequency() {
+
+        System.out.println("The ram frequency is: " + frequency);
         return frequency;
     }
 
